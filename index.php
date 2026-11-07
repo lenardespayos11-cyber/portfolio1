@@ -86,7 +86,7 @@ function e($v) { return htmlspecialchars((string)$v, ENT_QUOTES, 'UTF-8'); }
     <!-- about section design -->
      <section id="about" class="about">
         <div class="about-img">
-            <img src="images/about.png" alt="">
+            <img src="images/about.jpg" alt="">
         </div>
 
         <div class="about-content">
